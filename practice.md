@@ -12,5 +12,5 @@ footer    { grid-area: footer; }
 <p>Lorem ipsum</p>
 ```
 https://www.w3schools.com/js/default.asp
-- First item
-- Second item
+- **Java script programs the behavior of websites**
+- *Java script is a core part of making websites like CSS and HTML*
