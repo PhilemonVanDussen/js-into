@@ -12,3 +12,5 @@ footer    { grid-area: footer; }
 <p>Lorem ipsum</p>
 ```
 https://www.w3schools.com/js/default.asp
+- First item
+- Second item
