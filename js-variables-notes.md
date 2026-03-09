@@ -66,11 +66,6 @@ Here is a simple example of how a professional programmer marks their "territory
 ```javascript
 // This is a single-line comment: Setting the player's starting level
 let playerLevel = 1;
-
-const userFirstName = "Alex";
-const primaryThemeColor = "Midnight Blue";
-const currentLoginStatus = "Logged In";
-
 ```
 
 PROMPT: Now ask Gemini to give you three examples of JavaScript string variables that are declared (created) using the keyword `const`.  Tell Gemini to write the variable names in camel case.  Write the answer Gemini gives you below.
@@ -78,6 +73,9 @@ PROMPT: Now ask Gemini to give you three examples of JavaScript string variables
 ```javascript
 // Write the example code Gemini gives you inside this code block
 
+const userFirstName = "Alex";
+const primaryThemeColor = "Midnight Blue";
+const currentLoginStatus = "Logged In";
 
 ```
 
