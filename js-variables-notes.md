@@ -65,7 +65,11 @@ Here is a simple example of how a professional programmer marks their "territory
 
 ```javascript
 // This is a single-line comment: Setting the player's starting level
-let playerLevel = 1; 
+let playerLevel = 1;
+
+const userFirstName = "Alex";
+const primaryThemeColor = "Midnight Blue";
+const currentLoginStatus = "Logged In";
 
 ```
 
