@@ -1,3 +1,3 @@
 ## Gemini Notes
 
-#Hi
+# Hi
