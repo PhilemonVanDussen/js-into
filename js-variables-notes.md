@@ -87,6 +87,7 @@ Add your answer to the JavaScript code block below.
 ```javascript
 // Write your answer below this JavaScript comment
 
+// I am PJ VanDussen, the lead developer of this porject
 
 ```
 
