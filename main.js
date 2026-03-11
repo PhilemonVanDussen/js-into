@@ -3,8 +3,8 @@
 // Variable Declaration & Assignment
 
 // Declare variables
-const firstName = "PJ";
-const lastName = "VanDussen";
+const firstName = 'PJ';
+const lastName = 'VanDussen';
 const age = 25;
 
 
